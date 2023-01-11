@@ -1,0 +1,9 @@
+node_modules
+
+contract/target
+
+contract/Cargo.lock
+
+frontend/.parcel-cache
+
+cache
