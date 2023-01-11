@@ -1,4 +1,4 @@
-near-blank-project
+Near Coffee Plus Incentive Program 
 ==================
 
 This app was initialized with [create-near-app]
